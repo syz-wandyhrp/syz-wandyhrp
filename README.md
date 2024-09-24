@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syz-wandyhrp
-- 👀 I’m interested in Data Science and Data Analyst, DL, ML, and AI, including Smart Devices
+- 👀 I’m interested in Data Science and Data Analyst and Engineer, DL, ML, and AI, including Smart Devices
 - 🌱 I’m currently learning DeepL for Smart Devices implementation
 - 💞️ I’m looking to collaborate on anybody
 - 📫 How to reach me
