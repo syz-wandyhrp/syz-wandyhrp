@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syz-wandyhrp
 - 👀 I’m interested in Data Science and Data Analyst and Engineer, DL, ML, and AI, including Smart Devices
-- 🌱 I’m currently learning DeepL for Smart Devices implementation
+- 🌱 I’m currently looking for work under Data Science or Data Analyst, Business Intelligent Analyst roles
 - 💞️ I’m looking to collaborate on anybody
 - 📫 How to reach me
 - LinkedIn : https://www.linkedin.com/in/syazwandy-harahap/
